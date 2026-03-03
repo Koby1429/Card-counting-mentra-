@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "bun run --watch src/index.ts",
     "build": "bun vite build",
-    "start": "bun vite preview",
+    "start": "bun server.js" ,
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
